@@ -1,0 +1,7 @@
+Written by Malachi Parks
+
+Lecture Section: 011
+Lab Section: 031
+
+Github Username: Malachiparks1999
+Github Repo URL: https://github.com/Malachiparks1999/cisc275-spring2020-first-git
